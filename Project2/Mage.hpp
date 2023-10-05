@@ -1,8 +1,12 @@
 /*
-Author: Jiaxiong Guan
+CSCI235 Fall 2023
 Project 2 - Inheritance
+Author: Jiaxiong Guan
 Date: 9/22/2023
-Description: header file for the Mage class
+
+Description: 
+Mage.hpp declares the Mage class along with its private and public members
+The Mage class is derived from the Character class and is a pickable role in the game
 */
 
 #ifndef MAGE_HPP
@@ -25,7 +29,6 @@ public:
         Character name is defaulted to "NAMELESS" 
         Booleans are defaulted to false
         School of magic and weapon are defaulted to "NONE"
-
     */
     Mage();
 
@@ -47,7 +50,6 @@ public:
                   Defaults to "NONE" if there is no provided string or if invalid string 
         @param  : A boolean indicating whether or not the character can summon an incarnate, defaults to false
         @post   : Sets private members of the Mage class to the values of the provided parameters 
-
     */
     Mage(const std::string& name, const std::string& race, int vitality = 0, int armor = 0, 
         int level = 0, bool enemy = false, const std::string& school_of_magic = "NONE", 

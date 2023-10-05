@@ -1,10 +1,15 @@
 /*
-CSCI235 Summer 2023
-Project 1 - Character Class
-Georgina Woo
-June 14 2023
+CSCI235 Fall 2023
+Project 2 - Inheritance
+Author: Jiaxiong Guan
+Date: 9/22/2023
+Modified from Georgina Woo's Character.hpp file
+
+Description:
 Character.hpp declares the Character class along with its private and public members
+The Character class contains the parameters of a characters from a role playing game 
 */
+
 #ifndef CHARACTER_HPP_
 #define CHARACTER_HPP_
 #include <iostream>

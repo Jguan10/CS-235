@@ -1,11 +1,13 @@
 /*
-CSCI235 Summer 2023
-Project 1 - Character Class
-Jiaxiong Guan
-Jun 14 2023
+CSCI235 Fall 2023
+Project 2 - Inheritance
+Author: Jiaxiong Guan
+Date: 9/22/2023
+Modified from Georgina Woo's Character.cpp file
+
+Description: 
 Character.cpp defines the constructors and private and public function implementation of the Character class
-
-
+The Character class contains the parameters of a characters from a role playing game 
 */
 
 #include "Character.hpp"

@@ -1,8 +1,12 @@
 /*
-Author: Jiaxiong Guan
+CSCI235 Fall 2023
 Project 2 - Inheritance
+Author: Jiaxiong Guan
 Date: 9/22/2023
-Description: Mage.cpp defines and implements the functions of the Mage class
+
+Description: 
+Mage.cpp defines the constructors and private and public function implementation of the Mage class
+The Mage class is derived from the Character class and is a pickable role in the game
 */
 
 #include "Mage.hpp"

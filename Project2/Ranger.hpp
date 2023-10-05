@@ -1,8 +1,12 @@
 /*
-Author: Jiaxiong Guan
+CSCI235 Fall 2023
 Project 2 - Inheritance
-Date: 9/20/2023
-Description: header file for the Ranger class
+Author: Jiaxiong Guan
+Date: 9/22/2023
+
+Description: 
+Ranger.hpp declares the Ranger class along with its private and public members
+The Ranger class is derived from the Character class and is a pickable role in the game
 */
 
 #ifndef RANGER_HPP

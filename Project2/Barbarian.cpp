@@ -1,3 +1,14 @@
+/*
+CSCI235 Fall 2023
+Project 2 - Inheritance
+Author: Jiaxiong Guan
+Date: 9/22/2023
+
+Description: 
+Barbarian.cpp defines the constructors and private and public function implementation of the Barbarian class
+The Barbarian class is derived from the Character class and is a pickable role in the game
+*/
+
 #include "Barbarian.hpp"
 
 /*
