@@ -1,9 +1,11 @@
 /*
 CSCI235 Summer 2023
 Project 1 - Character Class
-Georgina Woo
+Jiaxiong Guan
 Jun 14 2023
-Characte.cpp defines the constructors and private and public function implementation of the Character class
+Character.cpp defines the constructors and private and public function implementation of the Character class
+
+
 */
 
 #include "Character.hpp"
