@@ -1,3 +1,3 @@
-##Project 1\n
+##Project 1
 ##Description:
 
