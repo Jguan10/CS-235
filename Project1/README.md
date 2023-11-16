@@ -6,5 +6,7 @@ Project 1 includes the Character class, which will serve as the base class for e
 
 ## Topics: 
 -interface files (.hpp) and implementation files (.cpp)
+
 -basics of a C++ class
+
 -data encapsulation 
