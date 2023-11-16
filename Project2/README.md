@@ -6,7 +6,5 @@ Project 2 adds four character subclasses, Scoundrel, Barbarian, Mage, Ranger, wh
 
 ## Topics: 
 - Inheritance
-
 - Structures (structs)
-
 - Vectors
