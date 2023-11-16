@@ -1,10 +1,10 @@
-#Project 3
+# Project 3
 
-##Description: 
+## Description: 
 
 Project 3 creates a Tavern class that contains Character objects.
 
-##Topics:
+## Topics:
 -Array-bag
 
 -Template Classes
