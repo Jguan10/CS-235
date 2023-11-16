@@ -12,3 +12,5 @@ Project 1 includes the Character class, which will serve as the base class for e
 -Data encapsulation 
 
 -Enumerated types
+
+-Passing by reference
