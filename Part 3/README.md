@@ -2,7 +2,7 @@
 
 ## Description: 
 
-Project 3 creates a Tavern class that contains Character objects.
+Part 3 creates a Tavern class, which is derived from an array-bag class, that contains Character objects.
 
 ## Topics:
 - Array-bag
